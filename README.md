@@ -10,10 +10,8 @@ http://www.apsecopark.ru/
 Скрипт посылает время компьютера с которгого запускается на устройство.
 Пакет посылается по udp.
 
+Requirements python >=3.5
+
 python3 setTimeEcoPark.py -ip xxx.xxx.xxx.xxx -port xxxx 
 
 Проверен на АПС EcoPark EPE, АПС EcoPark EPA, АПС EcoPark EPS
-
-***Requirements
-
-    python >=3.5
