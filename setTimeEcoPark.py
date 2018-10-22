@@ -1,9 +1,5 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: UTF-8 -*-
-
-# data = b'\x57\x45\x43\x46\x47\x03\x02\xFF\x06\x33\x15\x02\x24\x09\x18\x00'
-# encode - перекодирует введенные данные в байты, decode - обратно
-# data = str.encode(data) в данном случае не надо так как формат bytes
 
 import sys
 from socket import *
